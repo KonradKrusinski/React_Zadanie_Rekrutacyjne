@@ -1,0 +1,8 @@
+.Controls{
+    position:fixed;
+    bottom:2em;
+    right:1em;
+    z-index:1;
+    width:20em;
+    background-color: aquamarine;
+}

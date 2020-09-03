@@ -1,0 +1,7 @@
+.LayersMenu{
+    position:fixed;
+    padding-bottom: 1em;
+    bottom:0.5em;
+    width:20em;
+    background-color:aquamarine;
+}

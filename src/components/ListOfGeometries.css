@@ -1,0 +1,9 @@
+.GeometriesListPosition > td{
+
+}
+.GeometryData{
+    background-color: burlywood;
+    text-align:right;
+    font-size: 0.8em;
+    color: #fff145;
+}
