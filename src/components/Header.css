@@ -1,0 +1,28 @@
+.Header{
+    display:inline-flex;
+    position:fixed;
+    left: 0em;
+    padding-left:1em;
+    padding-bottom: 0.2em;
+    width: 25em;
+    top: 0.5em;
+    border: none;
+    z-index: 2;
+    background-color: white;
+}
+.Header > img{
+    width: 3em;
+}
+.Header > h2{
+    position: fixed;
+    top: 0.5em;
+    left:4em;
+    margin: 0;
+
+}
+.Header > h5{
+    position: fixed;
+    right:1em;
+    margin: 0;
+    bottom:1em;
+}

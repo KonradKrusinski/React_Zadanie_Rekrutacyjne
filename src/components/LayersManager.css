@@ -1,0 +1,24 @@
+.LayersManager{
+    overflow-y: scroll;
+    position: fixed;
+    top: 3em;
+    bottom: 0.5em;
+    left:0.5em;
+    width:20em;
+    background-color: aquamarine;
+    z-index: 1;
+}
+.LayersManager > table{
+    width:100%
+}
+
+.LayersManager >table>thead>tr>th{
+    position:sticky;
+    top:0;
+    background-color:aquamarine;
+}
+.HeaderRow{
+    text-align: center;
+    text-decoration: solid;
+    height: 1.5em;
+}
